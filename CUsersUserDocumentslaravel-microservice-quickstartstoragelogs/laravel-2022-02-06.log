@@ -1,0 +1,12 @@
+[2022-02-06 17:23:42] local.ERROR: Trait 'Illuminate\Database\Eloquent\SofDeletes' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Trait 'Illuminate\\Database\\Eloquent\\SofDeletes' not found at /laravel-quickstart/app/Models/Category.php:10)
+[stacktrace]
+#0 {main}
+"} 
+[2022-02-06 17:26:59] local.ERROR: Trait 'Illuminate\Database\Eloquent\SofDeletes' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Trait 'Illuminate\\Database\\Eloquent\\SofDeletes' not found at /var/www/app/Models/Category.php:10)
+[stacktrace]
+#0 {main}
+"} 
+[2022-02-06 17:27:43] local.ERROR: Trait 'App\Models\SoftDeletes' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Trait 'App\\Models\\SoftDeletes' not found at /var/www/app/Models/Category.php:10)
+[stacktrace]
+#0 {main}
+"} 
